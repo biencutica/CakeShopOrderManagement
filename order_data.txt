@@ -1,0 +1,5 @@
+1;Mara;[1,2];true
+2;Darius;[2];false
+3;Marian;[3];false
+4;Stef;[4];true
+5;Ana;[5];false

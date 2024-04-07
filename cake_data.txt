@@ -1,0 +1,4 @@
+1;vanilla;60.50
+2;chocolate;35.0
+3;marzipan;120.0
+4;caramel;33.80
